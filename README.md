@@ -28,6 +28,7 @@ cd teste-matheus-henrique-da-silva
     docker exec -it <nome_do_container_php> bash
     # Exemplo:
     docker exec -it laravel-app bash
+```
     
 
 ## Executando os Testes
@@ -42,5 +43,6 @@ docker exec -it teste-app bash
 
 # Execute todos os testes com Pest
 ./vendor/bin/pest
+```
 
 
