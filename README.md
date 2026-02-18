@@ -1,4 +1,4 @@
-# Sistema de Gestão - Teste Matheus Henrique
+# Teste Matheus Henrique
 
 Este projeto é um sistema web desenvolvido com **Laravel 12**, **Livewire**, **TailwindCSS** e Docker, pronto para ser rodado em container. O objetivo é fornecer um ambiente pronto para desenvolvimento e deploy local.
 
