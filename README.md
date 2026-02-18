@@ -18,6 +18,14 @@ Este projeto é um sistema web desenvolvido com **Laravel 12**, **Livewire**, **
 ## Como clonar o projeto
 
 ```bash
-git clone https://github.com/seu-usuario/teste-matheus-henrique-da-silva.git
+git clone https://github.com/Matheus557/teste-matheus-henrique-da-silva.git
 cd teste-matheus-henrique-da-silva
+
+1. Build e start dos containers: docker-compose up -d --build
+2. Acessando o sistema no navegador: http://localhost:8000
+3. Parar os containers: docker-compose down
+4. Entrar no container PHP para executar comandos artisan:
+    docker exec -it <nome_do_container_php> bash
+    # Exemplo:
+    docker exec -it laravel-app bash
 
